@@ -1,5 +1,5 @@
 [build]
 command = "npm run build"
 publish = "dist"
-functions = "lambda"
+functions = "functions"
 node_version = "14"
